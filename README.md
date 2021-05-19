@@ -12,3 +12,5 @@ De waarde wordt getoond op LCD en een leerling houdt de LCD goed in het oog en
  * koelt (met water) de temp.sensor op als de text AAN verschijnt
  
  In de seriële plotter verschijnt een live grafiek
+ ![LiveGrafiekSeriëleMonitor](https://github.com/moeskopsjan/Regelkring/blob/main/regelkring.JPG)
+ 
